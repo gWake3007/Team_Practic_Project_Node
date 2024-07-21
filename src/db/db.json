@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Practical Wooden Chair",
+    "price": "449.00",
+    "category": "Shoes",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+  },
+  {
+    "name": "Handcrafted Concrete Fish",
+    "price": "484.00",
+    "category": "Games",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+  },
+  {
+    "name": "Ergonomic Steel Gloves",
+    "price": "766.00",
+    "category": "Music",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+  }
+]
