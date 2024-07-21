@@ -1,0 +1,20 @@
+{
+  "name": "team_practic_project_node",
+  "version": "1.0.0",
+  "description": "1. Створіть новий командний репозиторій на [github.com](http://github.com), оберіть `.gitignore` (node). 2. Додайте до нього у колаборатори усіх студентів вашої групи. 3. Додайте захист на гілку `main` \"Require a pull request before merging\" і увімкніть опцію \"Automatically delete head branches\". 4. Склонуйте його собі на локальний комп'ютер. 5. Створіть свою гілку із гілки `main` та продовжуйте в ній виконувати це завдання. 6. Виконайте стартові налаштування вашого проєкту:",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.7.0",
+    "@faker-js/faker": "^8.4.1",
+    "eslint": "^9.7.0",
+    "globals": "^15.8.0"
+  }
+}
